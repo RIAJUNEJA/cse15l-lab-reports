@@ -13,6 +13,8 @@ There are 3 steps invloved:
 
 >1. Installing VScode
 
+ 
+
 >2. Remotely Connecting
 
 >3. Trying some commands

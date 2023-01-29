@@ -13,7 +13,7 @@ There are 3 steps invloved:
 
 >1. Installing VScode
 
- Go to Visual Studio Code website and follow the instructions given to download it on your computer: [using this link] (https://code.visualstudio.com/) ,depending on your operating system.
+ Go to Visual Studio Code website and follow the instructions given to download it on your computer: [using this link](https://code.visualstudio.com/) ,depending on your operating system.
  
  Once installed, a window like this should appear (may vary according to system and settings):
  
@@ -24,9 +24,9 @@ There are 3 steps invloved:
 
 If you are on Windows, you need to install **git bash** in Visual Studio Code.
 
-You can find your account specific username [here!] (https://sdacs.ucsd.edu/~icc/index.php)
+You can find your account specific username [here!](https://sdacs.ucsd.edu/~icc/index.php)
 
-[Here is a Tutorial on how to reset your password] (https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
+[Here is a Tutorial on how to reset your password](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
 
 Next, open a terminal in VScode to ssh and enter the **ssh cs15lwi23zz@ieng6@ucsd.edu** . Replace the zz with your account username. The message will look a something like this:
 

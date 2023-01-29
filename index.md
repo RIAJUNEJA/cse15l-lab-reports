@@ -50,5 +50,8 @@ Here is an example of what the cd and pwd commands did on my computer:
 <img width="323" alt="image" src="https://user-images.githubusercontent.com/122485765/212501242-590b9dec-bede-4dbe-9f55-9c869ddcc677.png">
 
 What I learned from these commands is that the **cd** command will display nothing if there is no error. I use this information to test for any errors.
-**pwd** will show the working directory path that you are currently in. Be careful though! Coming out of a particular folder will change the path. Learn from my mistakes!
+
+**pwd** will show the working directory path that you are currently in. 
+
+Be careful though! Coming out of a particular folder will change the path. Learn from my mistakes!
 

@@ -67,7 +67,7 @@ Here are the steps I am supposed to demonstrate:
   
   **keys pressed**: ```git command -m Li<tab> Lis<tab>```
   
-  To commit, I used git `command -m` and committed the file to ListExamples.java. I used tab to autocomplete and save time.
+  To commit, I used git `command -m` and committed the file to ListExamples.java. I used tab to autocomplete and save time. 
 
                                                          
   
